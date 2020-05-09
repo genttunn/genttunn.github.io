@@ -78,7 +78,8 @@ ul {
   color: #9eebc2;
 }
 .main li a:hover {
-  color: inherit;
+  /* color: inherit; */
+  color: pink;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
